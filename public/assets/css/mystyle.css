@@ -1,0 +1,137 @@
+.container-carousel{
+    max-width: 1920px;
+}
+.carousel-item img{
+    height: 720px;
+}
+#hero{
+height: 80vh;
+}
+
+.footer-newsletter{
+    background-color: #ffffff !important;
+}
+
+.footer-top{
+    background-color: #fef8f5 !important;
+}
+
+.about h3{
+    margin-top: 80px !important;
+}
+ 
+  .tour .tour-form {
+    width: 100%;
+    border-top: 3px solid #eb5d1e;
+    border-bottom: 3px solid #eb5d1e;
+    padding: 30px;
+    background: #fff;
+    box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  }
+  
+  .tour .tour-form .form-group {
+    padding-bottom: 8px;
+  }
+  
+  .tour .tour-form .validate {
+    display: none;
+    color: red;
+    margin: 0;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  
+  .tour .tour-form .error-message {
+    display: none;
+    color: #fff;
+    background: #ed3c0d;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+  }
+  
+  .tour .tour-form .sent-message {
+    display: none;
+    color: #fff;
+    background: #18d26e;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+  }
+  
+  .tour .tour-form .loading {
+    display: none;
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .tour .tour-form .loading:before {
+    content: "";
+    display: inline-block;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    margin: 0 10px -6px 0;
+    border: 3px solid #18d26e;
+    border-top-color: #eee;
+    -webkit-animation: animate-loading 1s linear infinite;
+    animation: animate-loading 1s linear infinite;
+  }
+  
+  .tour .tour-form input, .tour .tour-form textarea {
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+  }
+  
+  .tour .tour-form input{
+    height: 44px;
+  }
+  
+  .tour .tour-form select{
+    height: 44px;
+  }
+  
+  .tour .tour-form textarea {
+    padding: 10px 12px;
+  }
+  
+  .tour .tour-form button[type="submit"] {
+    background: #eb5d1e;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 4px;
+  }
+  
+  .tour .tour-form button[type="submit"]:hover {
+    background: #ef7f4d;
+  }
+
+  /* portfolio */
+
+  .portfolio .portfolio-hover:hover img{
+  opacity: 0.7 !important;
+  }
+
+  .services .title {
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+  }
+
+  .services .icon-box {
+    padding: 0px !important;
+  }
+
+  .tour .col-md-6{
+    padding-left: 0px !important;
+  }
+
+  .services .button .btn .lebih{
+    position: absolute !important;
+     right: 200px !important;
+     background: #eb5d1e !important;
+     color: #ffffff !important;
+  }
